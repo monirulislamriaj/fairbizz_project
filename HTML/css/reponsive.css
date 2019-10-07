@@ -1,0 +1,614 @@
+/* Big tablet to 1200px (widths smaller taht the 1140px row) */
+@media only screen and (max-width: 1200px) {
+    /* menu-aria */
+    .main-menu .navbar-expand-lg .navbar-nav .nav-link {
+        padding: 28px 16px; 
+    }
+    .submit {
+        margin: 18px 0 0px 0px;
+    }
+    /* slider-aria */
+    .slider-contant {
+        margin-left: 50px;
+    }
+    .slider-contant h2 {
+        font-size: 60px;
+    }
+    .slider-active .slick-dots {
+        left: 40%;
+    }
+    /* featurcs-aria */
+    .featurcs-aria {
+        padding: 80px 0;
+    }
+    .section-title h4 {
+        font-size: 27px;
+    }
+    .featurcs-box{
+        margin-top: 70px;
+    }
+    /* video-aria */
+    .video-walpaper {
+        padding: 100px 0;
+    }
+    .video-walpaper h2 {
+        width: 102%;
+    }
+    /* faq-aria */
+    .faq-img {
+        height: 100%;
+    }
+    .faq-img img {
+        margin-left: -20px;
+        width: 100%;
+        height: 100%;
+    }
+    button.btn.btn-link:hover {
+        font-size: 15px;
+    }
+    button.btn.btn-link.collapsed {
+        font-size: 15px;
+    }
+    button.btn.btn-link {
+        font-size: 15px;
+    }
+    /* our-blog-aria */
+    .blog-contant h3 {
+        margin-left: 0;
+        font-size: 16px;
+    }
+    .blog-contant h6 {
+        margin-left: 23px;
+    }
+    .redmore {
+        padding: 50px 0px 27px 23px;
+    }
+}
+
+
+/* Small tablet to big tablet: from 768px to 991px */
+@media only screen and (max-width: 991px) {
+    /* header-aria */
+    .single-cta {
+        padding: 15px 0px 14px 40px;
+    }
+    .single-cta h3 {
+        font-size: 14px;
+        margin-bottom: 8px;
+    }
+    .single-cta h3 img {
+        padding-right: 8px;
+    }
+    /* menu-aria */
+    .main-menu {
+        padding: 10px;
+    }
+    .menu-aria {
+        margin-bottom: -60px;
+        
+    }
+    .main-menu .navbar-expand-lg .navbar-nav .nav-link {
+        padding: 28px 15px;
+       
+    }
+    .submit {
+        margin: 18px 0 0px 20px;
+    }
+    .slider-contant {
+        padding-top: 200px;
+    }
+    .slider-contant h2 {
+        font-size: 40px;
+    }
+    .slider-active .slick-arrow {
+        top: 40%;
+    }
+    .slider-contant p {
+        font-size: 14px;
+        margin-bottom: 30px;
+    }
+    /* featurcs-aria */
+    .section-title h2,
+    .our-case-title h2 {
+        font-size: 36px;
+    }
+    .section-title h4 {
+        font-size: 20px;
+        line-height: 30px;
+    }
+    .featurcs-discription p {
+        font-size: 14px;
+        font-weight: normal;
+        line-height: 21px;
+        color: #828282;
+        font-family: 'Open Sans', sans-serif;
+    }
+    .video-walpaper h2 {
+        width: 100%;
+    }
+    .customer-case {
+        padding-bottom: 40px;
+    }
+   .testomoneal-contant {
+        padding-top: 60px;
+    }
+    .single-testomoneal p {
+        font-size: 15px;
+        line-height: 27px;
+        padding-right: 20px;
+    }
+    .client-info h4 {
+        font-size: 15px;
+    }
+    .consaltason-form {
+        margin: 0px;
+    }
+    .btn-primary {
+        padding: 21px 70px;
+        margin-bottom: 40px;
+    }
+    .single-band {
+        margin-left: 45px;
+    }
+    /* faq-aria */
+    button.btn.btn-link {
+        font-size: 11px;
+    }
+    button.btn.btn-link.collapsed {
+        font-size: 11px;
+    }
+    button.btn.btn-link:hover {
+        font-size: 11px;
+    }
+    /* block-aria */
+    .blog-aria {
+        padding: 80px 0;
+    }
+    .blog-tham {
+        margin-bottom: 25px;
+    }
+    .blog-contant {
+        height: 93%;
+        margin-bottom: 25px;
+    }
+    .blog-contant h3 {
+        margin-left: 0;
+        font-size: 24px;
+    }
+    .blog-contant h6 a {
+        margin-left: 15px;
+    }
+    .redmore {
+        padding: 110px 0px 32px 20px;
+    }
+    /* footer-aria */
+    .subscribed-form {
+        width: 100%;
+    }
+    .copyright-aria{
+        padding-top: 60px;
+    }
+    .footer-menu {
+        padding-top: 25px;
+    }
+    .footer-menu li {
+        padding-right: 16px;
+    }
+}
+
+
+
+
+/* Small phones to small tablets: from 576px to 767px */
+@media only screen and (max-width: 767px) {
+    /* logo-aria */
+    .single-cta {
+        padding: 15px 0px 15px 15px;
+    }
+    .single-cta h3 {
+        font-size: 12px;
+        margin-bottom: 5px;
+    }
+    .single-cta span {
+        font-size: 10px;
+    }
+    .slider-contant h2 {
+        font-size: 24px;
+    }
+    .slider-contant p {
+        font-size: 10px;
+    }
+    .featurcs-aria {
+        padding: 35px 0;
+    }
+    .section-title h2, .our-case-title h2 {
+        text-align: center;
+        margin-bottom: 20px;
+    }
+    .featurcs-box {
+        margin-top: 60px;
+        text-align: center;
+    }
+    .services-aria {
+        padding-top: 35px;
+    }
+    .section-title p,
+    .our-case-title p {
+        font-size: 16px;
+        line-height: 28px;
+        text-align: center;
+    }
+    .services-box h2 {
+        font-size: 18px;
+    }
+    .our-case-aria {
+        padding-top: 35px;
+    }
+    .testomoneal-contant {
+        padding-top: 40px;
+    }
+    .client-info h4 {
+        font-size: 14px;
+    }
+    .consaltason-form h3 {
+        padding: 40px 0;
+    }
+    .single-band {
+        margin-left: 0px;
+    }
+    .slick-slide img {
+        display: inline;
+    }
+    .brand-aria {
+        padding: 60px 0;
+    }
+    .faq-img img {
+        margin-left: 80px;
+        width: 50%;
+    }
+   .faq-section {
+        padding-top: 50px;
+    }
+    .blog-aria {
+        
+        padding: 80px 0px 0px 0;
+    }
+    .blog-tham {
+        margin-bottom: 70px;
+    }
+    .blog-contant {
+        height: auto; 
+        margin-bottom: 0px; 
+    }
+    .blog-contant h3 {
+        margin-left: 0;
+        font-size: 16px;
+    }
+    .redmore {
+        padding: 70px 0px 31px 20px;
+    }
+    .subscribed-form {
+        width: auto;
+        margin-bottom: 50px;
+    }
+    .video-walpaper h2 {
+        font-size: 35px;
+    }
+    .footer-aria {
+        padding-top: 70px;
+    }
+    .copyright {
+        text-align: center;
+    }
+    .footer-menu {
+        text-align: center;
+    }
+}
+
+
+
+/* Small phones: from 0 to 576px */
+@media only screen and (max-width:576px) {
+    .welcome-massese {
+        font-size: 11px;
+    }
+    .sociel-icon a:first-child {
+        padding-left: 10px; 
+    }
+    .sociel-icon a {
+        padding-left: 8px;
+    }
+    .logo {
+        padding: 15px 0px 15px 180px;
+        
+    }
+    .single-cta {
+        padding: 15px 0px 15px 25px;
+    }
+    .single-cta h3 {
+        font-size: 23px;
+        margin-bottom: 5px;
+    }
+    .single-cta h3 img {
+        padding-right: 0px;
+        width: 21px;
+    }
+    .single-cta span {
+        font-size: 14px;
+    }
+    .slider-contant {
+        margin-left: 18px;
+        padding: 120px 0;
+    }
+    .slider-contant h2 {
+        font-size: 34px;
+    }
+    .slider-contant p {
+        font-size: 22px;
+    }
+    .section-title h2, .our-case-title h2 {
+        font-size: 36px;
+    }
+    .section-title h4,
+    .section-title p,
+    .our-case-title p{
+        font-size: 24px;
+        line-height: 25px;
+        text-align: center;
+    }
+    .featurcs-discription p {
+        font-size: 14px;
+        text-align: justify;
+    }
+    .featurcs-box h4 {
+        font-size: 24px;
+    }
+    .featurcs-box p {
+        padding-top: 10px;
+    }
+    .slick-dots{
+        display: none !important;
+    }
+    .video-walpaper {
+        padding: 50px 0;
+    }
+    .video-walpaper h4 {
+        font-size: 30px;
+    }
+    .video-walpaper h2 {
+        font-size: 38px;
+    }
+    button.btn {
+        margin-right: 11px;
+        font-size: 10px;
+        padding: 14px 18px;
+    }
+    a.video-popup {
+        font-size: 15px;
+    }
+    .consaltason-form h3 {
+        padding: 20px 0px;
+        font-size: 24px;
+        margin: 0 0 0 20px;
+    }
+    form {
+        margin: 0px 20px;
+    }
+    span.current {
+        font-size: 15px;
+    }
+    button.btn.btn-link {
+        font-size: 10px;
+    }
+    button.btn.btn-link:hover {
+        font-size: 10px;
+    }
+    button.btn.btn-link.collapsed {
+        font-size: 10px;
+    }
+    .faq-aria .card-header h2 button.btn.btn-link.collapsed:after {
+        top: 15px;
+    }
+    .faq-aria .card-header h2 button.btn.btn-link:after {
+        top: 10px;
+    }
+    .blog-tham {
+        margin-bottom: 40px;
+    }
+    .blog-contant {
+        margin-bottom: 40px;
+        margin-left: 0;
+    }
+    .blog-contant h3 {
+        font-size: 18px;
+    }
+    .blog-contant h6 {
+        margin-left: 50px;
+    }
+    .redmore {
+        padding: 25px 0px 20px 50px;
+    }
+    .footer-widget {
+        text-align: center;
+    }
+    .footer-widget h3 {
+        text-align: center;
+        color: #fff;
+        font-weight: 700;
+        font-size: 30px;
+        margin-top: 40px;
+    }
+    .subscribed-form input[type=email] {
+        width: 50%;
+    }
+    .subscribed-form button {
+        right: 160px;
+    }
+    .copyright p {
+        font-size: 14px;
+    }
+    .footer-menu li {
+        padding-right: 15px;
+    }
+    .footer-menu li a {
+        font-size: 12px;
+    }
+}
+
+/* Small phones: from 0 to 425px */
+@media only screen and (max-width:425px) {
+    .single-cta {
+        padding: 15px 0px 15px 17px;
+    }
+    .logo {
+        padding: 15px 0px 15px 130px;
+    }
+    .slider-contant h2 {
+        font-size: 24px;
+    }
+    .single-cta h3 {
+        font-size: 16px;
+    }
+    .single-cta h3 img {
+        width: 16px;
+    }
+    .single-cta span {
+        font-size: 12px;
+    }
+    .section-title h2, .our-case-title h2 {
+        font-size: 34px;
+    }
+    .section-title h4, .section-title p, .our-case-title p {
+        font-size: 20px;
+    }
+    .single-case-contant h4 a {
+        font-size: 18px;
+    }
+    .blog-contant h3 {
+        font-size: 12px;
+    }
+    .video-walpaper h2 {
+        font-size: 26px;
+    }
+    .subscribed-form input[type=email] {
+        width: 100%;
+        padding: 10px 40px 10px 20px;
+    }
+    .subscribed-form button {
+        right: 15px; 
+    }
+    .footer-widget h3 {
+        font-size: 22px;
+    }
+    .footer-list li a {
+        font-size: 11px;
+    }
+    .footer-icon span {
+        font-size: 12px;
+    }
+    .footer-icon a i {
+        font-size: 11px;
+    }
+    .footer-widget p {
+        text-align: justify;
+    }
+}
+
+/* Small phones: from 0 to 375px */
+@media only screen and (max-width:375px) {
+    .logo {
+        padding: 15px 0px 15px 110px;
+    }
+    .single-cta {
+        padding: 15px 0px 15px 7px;
+    }
+    .single-cta h3 {
+        font-size: 13px;
+    }
+    .slider-contant h2 {
+        font-size: 20px;
+    }
+    .section-title h2, .our-case-title h2 {
+        font-size: 23px;
+    }
+    button.btn.btn-link:hover {
+        font-size: 8px;
+    }
+    button.btn.btn-link.collapsed {
+        font-size: 8px;
+    }
+    button.btn.btn-link {
+        font-size: 8px;
+    }
+    .blog-contant h3 {
+        font-size: 17px;
+    }
+    .footer-widget h3 {
+        font-size: 20px;
+    }
+    .footer-list li a {
+        font-size: 10px;
+    }
+    .footer-icon a i {
+        font-size: 9px;
+    }
+    .featurcs-box p {
+        padding-top: 10px;
+        padding: 0 10px;
+    }
+}
+
+/* Small phones: from 0 to 320px */
+@media only screen and (max-width:320px) {
+    .logo {
+        padding: 15px 0px 15px 85px;
+    }
+    .single-cta {
+        padding: 15px 0px 15px 18px;
+    }
+    .single-cta h3 {
+        font-size: 10px;
+    }
+    .single-cta h3 img {
+        width: 12px;
+    }
+    .single-cta span {
+        font-size: 9px;
+    }
+    .slider-contant h2 {
+        font-size: 16px;
+    }
+    .section-title h2, .our-case-title h2 {
+        font-size: 22px;
+    }
+    .featurcs-box h4 {
+        font-size: 19px;
+    }
+    .featurcs-box p {
+        padding: 0 12px;
+    }
+    button.btn.btn-link.collapsed {
+        font-size: 7px;
+    }
+    button.btn.btn-link:hover {
+        font-size: 7px;
+    }
+    button.btn.btn-link {
+        font-size: 7px;
+    }
+    .blog-contant h3 {
+        font-size: 16px;
+    }
+    .footer-widget h3 {
+        font-size: 17px;
+    }
+    .footer-list li a {
+        font-size: 9px;
+    }
+    .contact-list li {
+        font-size: 11px;
+    }
+    .footer-icon a {
+        padding: 0 1px;
+    }
+}
